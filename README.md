@@ -8,4 +8,4 @@
   Gatsby Blog Test
 </h1>
 
-[Site]("https://cocky-beaver-f99622.netlify.app/")
+[Site](https://cocky-beaver-f99622.netlify.app/)
